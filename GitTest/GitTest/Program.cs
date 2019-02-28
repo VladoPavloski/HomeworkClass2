@@ -12,6 +12,7 @@ namespace GitTest
         {
             int number = 10;
             // test
+            // test po vtor pat
         }
     }
 }
